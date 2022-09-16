@@ -69,3 +69,6 @@ button {
   .about__info{
     max-width: 550px;
   }
+  .form__containe{
+    width: 550px;
+  }
